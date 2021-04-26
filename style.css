@@ -424,5 +424,8 @@ form.sign-in-form {
     /* width: 25%; */
   
    }
+  form{
+    margin-bottom: 4rem;
+   }
 }
 
